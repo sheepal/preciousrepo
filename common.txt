@@ -1,2 +1,4 @@
 common file
-AAA
+BABACC
+BBB
+AAACC
