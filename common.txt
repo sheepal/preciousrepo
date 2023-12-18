@@ -1,3 +1,5 @@
 common file
 ABABCC
+BABACC
 BBB
+AAACC
